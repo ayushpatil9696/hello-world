@@ -3,7 +3,7 @@ import React from 'react'
 function Greet () {
 return(    
 <div>
-    <h1>hello ayush</h1>
+    <h1>hello vinit</h1>
 </div>
 )
 }
